@@ -104,6 +104,9 @@ The `.github/prompts/` directory contains prompt templates for common or complex
     - check location and output, then answer with yes or further suggestions
     - check generated files and unittests
 
+**Formatting**
+> Format `Inventum.UI.Items\ViewItems\CompressorController.cs` to resolve styling warnings according to `.editorconfig`.
+
 ---
 
 ## Troubleshooting
